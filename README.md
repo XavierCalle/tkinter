@@ -8,7 +8,7 @@ Ejercicio 2:
 Importa la librería tkinter, guarda un texto en una variable, muestra un mensaje con la funcion "msg" en la cual se configura el color de fondo (bg), y el formato del texto que se va a mostrar (font).
 
 Ejercicio 3:
-
+Importa la librería tkinter. Declara una la clase APP y dentro de ella declara dos funciones. La primera función nos muestra dos botones y le da formato al texto de los mismos. El primer botón llama a una fincion interna que cierra el programa. El segundo botón llama a la segunda función la cual nos muestra un mensaje en la consola.
 
 Ejercicio 4:
 Importa la librería tkinter, declara una variable de control tipo entera, muestra una etiqueta estática tipo label y dos textos estáticos tipo Radiobutton que sirve para darle un valor a la variable de control. A todos los textos se le modifica el formato, a los radiobutton se los mueve a la derecha (anchor=W)
@@ -27,8 +27,9 @@ Ejercicio 8:
 Muestra una etiqueta estática tipo label. Hace lo mismo que el ejercicio anterior, pero les da valores unicos: 1 y 0 y los guarda en una funcion. Muestra dos botones y les da una orden o sentencia. El primer botón "Quit" llama a una funcion interna para cerrar el programa. El segundo botón llama a la funcion que guardaba los valores de las instancia y los imprime en la consola.
 
 Ejercicio 9:
-
+Importa la librería tkinter, muestra dos etiquetas estáticas tipo label y define sus posiciones con "grid". Se declaran dos variables (e1 y e2) y se usa la clase "Entry" que permite al usuario ingresar valores dentro de estas variables y les da una posición con "grid"
 
 Ejercicio 10:
+Hace lo mismo que el ejercicio anterior. Define una funcion que lee los datos ingresados en las variables declaradas (e1 y e2) y las imprime. Muestra dos botones y les da una orden o sentencia. El primer botón "Quit" llama a una funcion interna para cerrar el programa. El segundo botón llama a la funcion que guardaba los valores de las variables y los imprime en la consola.
 
 
