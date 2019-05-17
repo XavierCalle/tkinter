@@ -2,6 +2,7 @@ Ejercicios usando Tkinter
 
 
 Ejercicio 1:
+Importa la librería tkinter y muestra una etiqueta estática (no modificable)
 
 Ejercicio 2:
 
